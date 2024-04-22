@@ -56,7 +56,7 @@ int main()
     q.f = q.r = 0;
     q.arr = (int *)malloc(q.size * sizeof(int));
     int node;
-    int i = 2;
+    int i = 0;
     int visited[6]={0,0,0,0,0,0};
 int a[6][6]= {
         {0, 1, 0, 1, 1, 0},

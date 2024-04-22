@@ -1,0 +1,1 @@
+{"name":"Local: lab","url":"f:\\documents\\git\\algorithm\\lab.cpp","tests":[{"id":1710577148730,"input":"2 3 5 1 2 4","output":"22"},{"id":1710577578794,"input":"2 3 5 1 2 4","output":"22"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\documents\\git\\algorithm\\lab.cpp","group":"local","local":true}

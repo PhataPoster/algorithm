@@ -1,0 +1,1 @@
+{"name":"Local: fao","url":"f:\\documents\\git\\algorithm\\fao.cpp","tests":[{"id":1709112517292,"input":"6 6 \n0 1\n0 3\n0 4\n1 2\n3 5\n4 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\documents\\git\\algorithm\\fao.cpp","group":"local","local":true}
